@@ -1,8 +1,10 @@
-# React + Vite
+Recipe App 🍳
+Welcome to Recipe App! This is a project developed by Group 14, aimed at helping users discover, organize, and share recipes effortlessly. Whether you're a beginner cook or a seasoned chef, this app makes managing recipes a breeze!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features 🌟
+🔍 Search Recipes: Quickly search for recipes by ingredients, cuisine, or dish name.
+📋 Save Favorites: Save your favorite recipes for easy access later.
+📚 Categorized Browsing: Browse recipes by category (e.g., vegetarian, desserts, main course).
+📱 Responsive Design: Works seamlessly on mobile and desktop devices.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Our Recipe App offers a user-friendly experience with several convenient features. It includes a search bar for quickly finding recipes based on your preferences. Users can explore recipes by categories or use the recipe button to view detailed instructions for making a dish. If you find a recipe you love, simply click the save button to add it to your saved list for easy access later. Changed your mind? No problem! Use the remove button to take it off your saved list effortlessly. With these features, managing and discovering recipes has never been easier!
